@@ -1,0 +1,6 @@
+@Biogenum_HostAddress = http://localhost:5263
+
+GET {{Biogenum_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
