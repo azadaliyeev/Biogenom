@@ -49,3 +49,11 @@
 
 С уважением,  
 Азад
+
+
+### 📬 Контакты
+
+- 📱 WhatsApp: +994505556515  
+- 📩 Telegram: [@azadaliyev111](https://t.me/azadaliyev111)  
+- ✉️ Email: azad-2000@mail.ru
+- 
